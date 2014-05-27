@@ -17,7 +17,6 @@ protected:
         }
     }
 
-
 public:
     Matrix(size_t n, size_t m) : n(n), m(m)
     {
